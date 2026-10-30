@@ -1,6 +1,6 @@
 {
  "version": 3,
- "generatedAt": "2026-10-30T18:13:00.018612Z",
+ "generatedAt": "2026-10-30T21:41:26.966855Z",
  "media": "https://pub-e559f6a057b64994b95e9c680f1332f7.r2.dev",
  "tafsirs": [
   {
@@ -465,6 +465,14 @@
      "sha256": "3a852d0cdbac4c3aa42809153cfc38706d773d6e65ba9f8c0c69c7854cba8147",
      "size": 528
     }
+   },
+   "author": {
+    "ar": "مجمع الملك فهد",
+    "en": "King Fahd Complex"
+   },
+   "work": {
+    "ar": "التفسير الميسر",
+    "en": "al-Tafsīr al-Muyassar"
    }
   },
   {
@@ -929,6 +937,14 @@
      "sha256": "8f6dae89a9d930323821e4efbad06dd1ffcc4d183c34bacbced25a2affe4d27b",
      "size": 1172
     }
+   },
+   "author": {
+    "ar": "السعدي",
+    "en": "al-Saʿdī"
+   },
+   "work": {
+    "ar": "تيسير الكريم الرحمن",
+    "en": "Taysīr al-Karīm al-Raḥmān"
    }
   },
   {
@@ -1393,6 +1409,14 @@
      "sha256": "25e04473c74421f7419a5fb68b60762377398fd0add08780c297a08202388fe4",
      "size": 5773
     }
+   },
+   "author": {
+    "ar": "ابن عاشور",
+    "en": "Ibn ʿĀshūr"
+   },
+   "work": {
+    "ar": "التحرير والتنوير",
+    "en": "al-Taḥrīr wa al-Tanwīr"
    }
   },
   {
@@ -1857,6 +1881,14 @@
      "sha256": "8d241c96ee284dc542bd28da8be5d3a02f4d3d9bd15bfd2776bc551569197b65",
      "size": 3293
     }
+   },
+   "author": {
+    "ar": "البغوي",
+    "en": "al-Baghawī"
+   },
+   "work": {
+    "ar": "معالم التنزيل",
+    "en": "Maʿālim al-Tanzīl"
    }
   },
   {
@@ -2321,6 +2353,14 @@
      "sha256": "814f683a275ffc261eeb54edf296feab86bb759b054bde3b49c67be07f78aafd",
      "size": 4669
     }
+   },
+   "author": {
+    "ar": "القرطبي",
+    "en": "al-Qurṭubī"
+   },
+   "work": {
+    "ar": "الجامع لأحكام القرآن",
+    "en": "al-Jāmiʿ li-Aḥkām al-Qurʾān"
    }
   },
   {
@@ -2785,6 +2825,14 @@
      "sha256": "f9dda4f552ccb2809266cf989c685fd9c701b3bacf224e31c5eb30a3de69186f",
      "size": 2584
     }
+   },
+   "author": {
+    "ar": "طنطاوي",
+    "en": "Ṭanṭāwī"
+   },
+   "work": {
+    "ar": "التفسير الوسيط",
+    "en": "al-Tafsīr al-Wasīṭ"
    }
   },
   {
@@ -3249,6 +3297,14 @@
      "sha256": "7fcedbc64fccff884532b7d05b68eaaf0ffbd7cddadb7619d6e76ab295e6f346",
      "size": 1975
     }
+   },
+   "author": {
+    "ar": "الطبري",
+    "en": "al-Ṭabarī"
+   },
+   "work": {
+    "ar": "جامع البيان",
+    "en": "Jāmiʿ al-Bayān"
    }
   },
   {
@@ -3713,6 +3769,14 @@
      "sha256": "69fc3893591a994b45729c21f54db2b10190b3431c8c8553c839032a40c9560b",
      "size": 3543
     }
+   },
+   "author": {
+    "ar": "الزمخشري",
+    "en": "al-Zamakhsharī"
+   },
+   "work": {
+    "ar": "الكشاف",
+    "en": "al-Kashshāf"
    }
   },
   {
@@ -4177,6 +4241,14 @@
      "sha256": "710b94b2966c611fb557b1ab1b12d0eb11cb6dccc4f0d350aaccacf21b1f0609",
      "size": 331
     }
+   },
+   "author": {
+    "ar": "مركز تفسير",
+    "en": "Tafsir Center"
+   },
+   "work": {
+    "ar": "المختصر في التفسير",
+    "en": "The Abridged Explanation of the Qurʾān"
    }
   },
   {
@@ -4641,6 +4713,14 @@
      "sha256": "dc43a2cca2df34e0c8a6046b958f478942c939b6041ff36c395249414374d8d2",
      "size": 2564
     }
+   },
+   "author": {
+    "ar": "ابن كثير",
+    "en": "Ibn Kathīr"
+   },
+   "work": {
+    "ar": "تفسير القرآن العظيم",
+    "en": "Tafsīr al-Qurʾān al-ʿAẓīm (abridged)"
    }
   },
   {
@@ -5105,6 +5185,14 @@
      "sha256": "f56f512d37d90b75e72f756ecc5898f95c85de28198d35800b4ae798ccb81a38",
      "size": 9494
     }
+   },
+   "author": {
+    "ar": "محمد شفيع",
+    "en": "Muḥammad Shafīʿ"
+   },
+   "work": {
+    "ar": "معارف القرآن",
+    "en": "Maʿārif al-Qurʾān"
    }
   }
  ],
